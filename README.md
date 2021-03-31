@@ -31,6 +31,8 @@
 
 # INSTAL TOOLS
 
+┌∩┐⎝◣⏝◢⎠┌∩┐︻╦̵̵͇̿̿̿̿╤────►
+
 $ apt update && apt upgrade -y
 
 $ pkg update pkg install python2 -y
@@ -42,5 +44,7 @@ $ cd SPAMcuk
 $ pip2 install requests
 
 $ python2 main.py
+
+┌∩┐⎝◣⏝◢⎠┌∩┐︻╦̵̵͇̿̿̿̿╤────►
 
 SETELAH ITU MASUKAN NOMERNYA CUK
