@@ -46,7 +46,7 @@ def logo():
               ===================================
               |  %sAuthor by %sSANTRI CYBER SANTUY%s  |
               |  %sGithub %sgithub.com/AKKUSANTUY%s   |
-              |  %sWhatsApp %s+6288221708799%s        |
+              |  %sWhatsApp %s+6282134566596%s        |
               ===================================
                    FOLLOW IG GWE @AKKU_SANTUY
               %s>>>SPAM DAN PRANK TEMAN KAMU CUK<<<"""%(qu,pu,ku,qu,pu,ku,qu,pu,ku,qu,qu)
